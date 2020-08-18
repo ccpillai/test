@@ -13,6 +13,7 @@ Text in these white spaces will appear in your markdown doc as text.
 ###### An even smaller heading
 
 Click the Knit button to render the file and see what the text looks like.        
+test
 
 ```{r set up, include=FALSE}
 # This is our first code chunk. In the curly braces / chunk header above, 
